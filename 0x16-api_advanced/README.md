@@ -28,7 +28,5 @@ and there’s tons of information to be parsed out and presented.
 > All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my
 codes to get an insight. Scroll up :arrow_up:, please.
 
-##  Author :black_nib:
-*  __Oyindamola Ibis__ <[HBIbidunni](https://github.com/HBIbidunni)>
 -------
 
